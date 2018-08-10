@@ -1,28 +1,49 @@
-.App {
-  text-align: center;
+.main {
+	display: flex;
+	justify-content: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.main--svg {
+	top: 400px;
+	width: 78%;
+	height: 100%;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
+.cls-1{fill:#404e6b;}
+.cls-2{fill:#0093bb;}
+.cls-3{fill:#0289a8;}
+.cls-4{fill:#65ffc8;}
+.cls-5{fill:#4aba93;}
+.cls-18,.cls-6{fill:#fff;}
+.cls-19,.cls-6{opacity:0.15;}
+.cls-17,.cls-7{opacity:0.4;}
+.cls-8{fill:#00a3c9;}
+.cls-9{fill:#efa68e;}
+.cls-10{fill:#b9826f;}
+.cls-11{fill:#3d3634;}
+.cls-12{fill:#e5e5e5;}
+.cls-13{fill:#7b8899;}
+.cls-14{fill:#707d8c;}
+.cls-15{fill:#435267;}
+.cls-16{fill:#eed646;}
+.cls-17{fill:#050505;}
+.cls-20{fill:#69badc;}
+.cls-21{fill:#5db1ce;}
+.cls-22{fill:#c1c8cf;}
+.cls-23{fill:#b0b4b7;}
+.cls-24{fill:none;}
+.cls-25{fill:#34445b;}
+.cls-26{fill:#f86c97;}
+.cls-27{fill:#f0cd00;}
+.cls-28{fill:#a7f192;}
+.cls-29{fill:#f8afee;}
+.cls-30{opacity:0.06;}
+.cls-31{fill:#d1d1d1;}
+.cls-32{fill:#b5b5b5;}
+.cls-33{fill:#d3d3d3;}
+.cls-34{fill:#c1c1c1;}
+.cls-35{fill:#556b87;}
+.cls-36{fill:#364b65;}
+.cls-37{fill:#617991;}
+.cls-38{fill:#495d7a;}
+.cls-39{fill:#70ea4e;}
